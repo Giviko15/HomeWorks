@@ -1,0 +1,14 @@
+C:\Users\Giviko\RiderProjects\HomeworkN4\HomeworkN4\bin\Debug\net10.0\HomeworkN4.exe
+C:\Users\Giviko\RiderProjects\HomeworkN4\HomeworkN4\bin\Debug\net10.0\HomeworkN4.deps.json
+C:\Users\Giviko\RiderProjects\HomeworkN4\HomeworkN4\bin\Debug\net10.0\HomeworkN4.runtimeconfig.json
+C:\Users\Giviko\RiderProjects\HomeworkN4\HomeworkN4\bin\Debug\net10.0\HomeworkN4.dll
+C:\Users\Giviko\RiderProjects\HomeworkN4\HomeworkN4\bin\Debug\net10.0\HomeworkN4.pdb
+C:\Users\Giviko\RiderProjects\HomeworkN4\HomeworkN4\obj\Debug\net10.0\HomeworkN4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giviko\RiderProjects\HomeworkN4\HomeworkN4\obj\Debug\net10.0\HomeworkN4.AssemblyInfoInputs.cache
+C:\Users\Giviko\RiderProjects\HomeworkN4\HomeworkN4\obj\Debug\net10.0\HomeworkN4.AssemblyInfo.cs
+C:\Users\Giviko\RiderProjects\HomeworkN4\HomeworkN4\obj\Debug\net10.0\HomeworkN4.csproj.CoreCompileInputs.cache
+C:\Users\Giviko\RiderProjects\HomeworkN4\HomeworkN4\obj\Debug\net10.0\HomeworkN4.dll
+C:\Users\Giviko\RiderProjects\HomeworkN4\HomeworkN4\obj\Debug\net10.0\refint\HomeworkN4.dll
+C:\Users\Giviko\RiderProjects\HomeworkN4\HomeworkN4\obj\Debug\net10.0\HomeworkN4.pdb
+C:\Users\Giviko\RiderProjects\HomeworkN4\HomeworkN4\obj\Debug\net10.0\HomeworkN4.genruntimeconfig.cache
+C:\Users\Giviko\RiderProjects\HomeworkN4\HomeworkN4\obj\Debug\net10.0\ref\HomeworkN4.dll
